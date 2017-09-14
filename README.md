@@ -5,6 +5,8 @@ An HIV vaccine v2 (preliminary). -- This version shows more clearly the symmetry
 </p>
 <p align="center">
   vHIV (raspberry and red) shown bound to N6 heavy chain (blue)
+</p>
+<p align="center">
   Potential glycosylation sites selected by gly21 software on the gp120 monomer are shown in red.
 </p>
 <p align="center">
