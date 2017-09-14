@@ -1,0 +1,6 @@
+vHIV2 steps (using pymol)
+-------------------------
+
+copy files from zHIV
+modify gly21 chains="G"
+run gly21.py
