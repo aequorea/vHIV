@@ -1,5 +1,5 @@
 # vHIV2
-An HIV vaccine v2 (preliminary) -- this version shows more clearly the symmetry between creating a glycosylated HIV neutralizing molecule (see zHIV) and an epitope focused vaccine
+An HIV vaccine v2 (preliminary) -- this version shows more clearly the symmetry between creating a glycosylated HIV neutralizing molecule (see zHIV) and using designed in glycans to create an epitope focused vaccine
 <p align="center">
   <img src="vHIV2.png" width="500"/>
 </p>
