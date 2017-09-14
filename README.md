@@ -1,5 +1,5 @@
 # vHIV
-An HIV vaccine (preliminary)
+An HIV vaccine (preliminary) -- this version shows more clearly the symmetry between creating a glycosylated blocking molecule and an epitope focused vaccine
 <p align="center">
   <img src="vHIV2.png" width="500"/>
 </p>
