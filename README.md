@@ -1,10 +1,10 @@
 # vHIV
 An HIV vaccine (preliminary)
 <p align="center">
-  <img src="vHIV.png" width="500"/>
+  <img src="vHIV2.png" width="500"/>
 </p>
 <p align="center">
-  vHIV (salmon and red) shown bound to N6 heavy and light chains (blue and yellow)
+  vHIV (raspberry and red) shown bound to N6 heavy chain (blue)
 </p>
 <p align="center">
   (based on 5TE4.PDB -- DOI:10.1016/j.immuni.2016.10.027)
