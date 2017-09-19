@@ -1,5 +1,5 @@
 # vHIV2
-An HIV vaccine v2 (preliminary). -- This version shows more clearly the symmetry between creating a glycosylated HIV neutralizing molecule (see zHIV) and using designed in glycans to create an epitope focused vaccine. The design is called "preliminary" because the crystal structure of the gp120 monomer is incomplete.
+An HIV vaccine (preliminary). -- This version shows more clearly the symmetry between creating a glycosylated HIV neutralizing molecule (see zHIV) and using designed in glycans to create an epitope focused vaccine. The design is called "preliminary" because the crystal structure of the gp120 monomer is incomplete.
 <p align="center">
   <img src="vHIV2.png" width="500"/>
 </p>
