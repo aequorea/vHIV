@@ -19,7 +19,7 @@ After seeing the zHIV neutralizer on my computer screen for the first time, one 
 I started to wondered if it would be possible to get the immune system to make antibodies that bind mostly with one chain or the other. Then I began to think that maybe vaccine design is somehow the "inverse" of neutralizer design, where one creates the inverse by coating all parts of an antigen with the exception of the desired binding epitope with glycans. Thus one might manipulate the immunogenicity of that antigen such that the response would be a single chain binder.
 </p>
 <p>
-It's easy enough to play this game using the crystal structure I used to do the zHIV neutralizer design. Just glycosylate gp120 instead of the antibody fragment leaving the portion of the gp120 to which the antibody is bound unglycosylated. This is shown above.
+I used the same crystal structure I used to do the zHIV neutralizer design. Just glycosylate gp120 instead of the antibody fragment leaving the portion of the gp120 to which the antibody is bound unglycosylated. This is shown above.
 </p>
 <p>
 Interestingly, work has been proceeding along these lines using gp120's built in glycosylation sites and selective deglycosylation in the vicinity of the CD4 binding site (doi:10.1016/j.celrep.2017.04.013). Gp120 trimers that are completely glycosylated showed little immunogenicity. If however, glycans in the vicinity of the CD4 binding site were removed, the trimers became immunogenic. The nature of the antibody binding in the selective deglycosylation experiments was not sufficiently characterized to determine if any were single chain binders, although there were some indications of neutralization broadness.
