@@ -13,14 +13,7 @@ An HIV vaccine (preliminary). -- This version shows more clearly the symmetry be
   (based on 5TE4.PDB -- DOI:10.1016/j.immuni.2016.10.027)
 </p>
 <p>
-After seeing the zHIV neutralizer on my computer screen for the first time, one of the first questions that came to mind was whether or not it would be possible to make more molecules like that one. The neutralizer was derived from the N6 antibody, which aside from the fact that it can neutralize some 98% of all HIV isolates it was tested against, has the interesting property that the light chain had evolved in such a way that it essentially stayed out of the way, with the majority of the binding interaction being between the heavy chain and HIV's gp120 protein. This feature of N6 was used to design the small molecule HIV neutralizer zHIV.
-</p>
-<p>
-I started to wondered if it would be possible to get the immune system to make antibodies that bind mostly with one chain or the other. Then I began to think that maybe vaccine design is somehow the "inverse" of neutralizer design, where one creates the inverse by coating all parts of an antigen with the exception of the desired binding epitope with glycans. Thus one might manipulate the immunogenicity of that antigen such that the response would be a single chain binder.
-</p>
-<p>
-I used the same crystal structure I used to do the zHIV neutralizer design. Just glycosylate gp120 instead of the antibody fragment leaving the portion of the gp120 to which the antibody is bound unglycosylated. This is shown above.
-</p>
+I wondered if it was possible to get the immune system to make more antibodies like N6 by making a vaccine. When I had the glycodesign software pick glycosylation sites on the N6 fragment, I did it with the fragment bound to gp120 to avoid glycosylating the binding pocket. Maybe a good way to make a vaccine would be to design glycans into gp120 such that they avoid the binding pocket. It's a different method of "epitope focusing." I don't know how it would work out, but I think it's something we should be looking into, not just for HIV, but for other things as well. Find the conserved region on a virus, and use glycodesign to focus on it. Maybe it works great!</p>
 <p>
 Interestingly, work has been proceeding along these lines using gp120's built in glycosylation sites and selective deglycosylation in the vicinity of the CD4 binding site (doi:10.1016/j.celrep.2017.04.013). Gp120 trimers that are completely glycosylated showed little immunogenicity. If however, glycans in the vicinity of the CD4 binding site were removed, the trimers became immunogenic. The nature of the antibody binding in the selective deglycosylation experiments was not sufficiently characterized to determine if any were single chain binders, although there were some indications of neutralization broadness.
 </p>
