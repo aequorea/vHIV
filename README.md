@@ -18,9 +18,3 @@ I wondered if it was possible to get the immune system to make more antibodies l
 <p>
 I call this design "preliminary" because there are many different HIV isolates and I don't know which version of gp120 would work the best. It would be great to come up with something that works even better than N6 which only neutralizes 98% of isolates it was tested against. It might be nice to know something about the structures of the isolates that N6 doesn't work on. This might tell us something about how to improve the antibody and how to produce a better vaccine.
 </p>
-<p>
-Work has been proceeding along these lines using gp120's built in glycosylation sites and selective deglycosylation in the vicinity of the CD4 binding site (doi:10.1016/j.celrep.2017.04.013). Gp120 trimers that are completely glycosylated showed little immunogenicity. If however, glycans in the vicinity of the CD4 binding site were removed, the trimers became immunogenic. The nature of the antibody binding in the selective deglycosylation experiments was not sufficiently characterized to determine if any were single chain binders, although there were some indications of neutralization broadness.
-</p>
-<p>
-I should also mention that epitope focusing by attaching an antigen fragment to a protein scaffold for display to the immune system has been done previously (doi:10.1038/nature12966).
-</p>
