@@ -13,14 +13,8 @@ An HIV vaccine (preliminary). -- This version shows more clearly the symmetry be
   (based on 5TE4.PDB -- DOI:10.1016/j.immuni.2016.10.027)
 </p>
 <p>
-I wondered if it was possible to get the immune system to make more antibodies like N6 by making a vaccine. When I had the glycodesign software pick glycosylation sites on the N6 fragment, I did it with the fragment bound to gp120 to avoid glycosylating the binding pocket. Maybe a good way to make a vaccine would be to design glycans into gp120 instead. It's a different method of "epitope focusing."
+I wondered if it was possible to get the immune system to make more antibodies like N6 by making a vaccine. When I had the glycodesign software pick glycosylation sites on the N6 fragment, I did it with the fragment bound to gp120 to avoid glycosylating the binding pocket. Maybe a good way to make a vaccine would be to design glycans into gp120 instead. It's a different method of "epitope focusing." I call this design "preliminary" because there are many different HIV isolates and I don't know which version of gp120 would work the best. I don't know how different the CD4 binding sites in different isolates really are. I don't know how the immediate surroundings of the CD4 binding site varies between the different isolates.
 </p>
 <p>
-I call this design "preliminary" because there are many different HIV isolates and I don't know which version of gp120 would work the best. I don't know how different the CD4 binding sites in different isolates really are. I don't know how the immediate surroundings of the CD4 binding site varies between the different isolates.
-</p>
-<p>
-When I look at Fig. 1, Table C, in the above mentioned reference I see 4 "fails" out of 181 tested isolates, these are the isolates that N6 fails to neutralize. The fails are: T278-50 from clade AG, BL01.DG from clade B, 6471.V1.C16 from clade C, and TV1.29 from clade C. There were also a couple of isolates where the binding was weak: CAP210.E8 from clade C, and 57128.vrc15 from clade D. It would be nice if there were structures of the gp120 molecules from these 6 isolates. Wouldn't it be interesting if the only reason N6 had trouble with these isolates is that the light chain was still getting in the way?
-</p>
-<p>
-Suppose this is the case. Would picking one of these more obstructive versions of gp120 and using it as a template for the epitope focused design result in antibodies with less pronounced light chains? I guess that's a question isn't it?
+When I look at Fig. 1, Table C, in the above mentioned reference I see 4 "fails" out of 181 tested isolates, these are the isolates that N6 fails to neutralize. The fails are: T278-50 from clade AG, BL01.DG from clade B, 6471.V1.C16 from clade C, and TV1.29 from clade C. There were also a couple of isolates where the binding was weak: CAP210.E8 from clade C, and 57128.vrc15 from clade D. It would be nice if there were structures of the gp120 molecules from these 6 isolates. Wouldn't it be interesting if the only reason N6 had trouble with these isolates is that the light chain was still getting in the way? Suppose this is the case. Would picking one of these more obstructive versions of gp120 and using it as a template for the epitope focused design result in antibodies with less pronounced light chains? I guess that's a question isn't it?
 </p>
