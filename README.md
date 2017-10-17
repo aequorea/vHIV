@@ -21,6 +21,3 @@ There is more to making a vaccine that would encourage antibodies that bind CD4 
 <p>
 Interestingly, HIV may already be telling us something about the things that might be needed to encourage proper evolution of broadly neutralizing antibodies. The HIV early entrants, or "pioneers," have statistically fewer N-linked glycosylation sites and may have fewer glycans than HIV viruses that have been part of an infection for a while. Maybe this is a significant part of co-evolution of HIV with the antibodies that has been seen in cases where broadly neutralizing antibodies have arisen in the natural course of an HIV infection. Maybe we should pay attention to this. From a mechanistic point of view, start with a big binding site to lure the antibodies in, and gradually squeeze the binding site so that only one chain can fit. Who knows? Maybe this is how it works in nature. Maybe it would work in designing a course of vaccine molecules designed to encourage the formation of broadly neutralizing antibodies.
 </p>
-<p>
-It is also interesting to me that the same clue that suggested that a microbicide might be more effective if it were glycosylated, suggests how a vaccine might need to change over time to encourage the production of broadly neutralizing antibodies.
-</p>
