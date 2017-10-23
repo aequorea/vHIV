@@ -22,5 +22,8 @@ There is probably more to making a vaccine that would encourage antibodies that 
 HIV may already be telling us something about how to encourage the evolution of broadly neutralizing antibodies. The HIV early entrants, or "pioneers," have statistically fewer N-linked glycosylation sites and may have fewer glycans than HIV viruses that have been part of an infection for a while. Maybe this is part of the co-evolution of HIV with the antibodies that has been seen in cases where broadly neutralizing antibodies have arisen in the course of an HIV infection. In the vaccine's sequence of molecules, start with fewer glycans and a more accessible CD4 binding site and progress to more glycans and a less accessible CD4 binding site.
 </p>
 <p>
-
+Another thing HIV does is vary the protein surface in areas that neighbor the CD4 binding site while leaving the binding site itself relatively constant. Since the antibodies are evolving to bind the area better, one imagines that it might be easier to improve the affinity to an area that is not changing as much like the binding site itself. If the surface is changing, the antibody might initially improve, but when the surface changes, binding to that area would likely drop to a lower efficiency. So it may also be important in the sequence of vaccine molecules to vary the protein surface in the vicinity of the binding site to better focus the antibody on the binding site itself. This may improve the specificity of binding to the binding site itself and improve the breadth of neutralization.
+</p>
+<p>
+So based on the behavior of HIV itself, we have devised a method of glycodesign based epitope focused vaccine design with variation sharpening. Use glycans to provide the "broad strokes" in the masking of the binding site, and use variation of the protein surface in the immediate vicinity of the region of interest to more sharply focus the antibodies on the region of interest.
 </p>
