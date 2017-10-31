@@ -25,5 +25,5 @@ Another HIV behavior is that HIV varies the protein surface in areas that neighb
 This strategy could be implemented using the "stabilized trimers" that have been a subject of investigation for a number of years, however simply adding some glycans to a gp120 monomer to reduce off target immunogenicity may result in molecules that are easier to make. This could be important if many variants are required.
 </p>
 <p>
-In HIV patients, broadly neutralizing antibodies can take years to develop. So maybe vaccine molecules need to be in circulation for a comparable period of time. Maybe it takes a number of different molecules administered over an extended period of time to guide the evolutionary machinery toward the desired result.
+In HIV patients, broadly neutralizing antibodies can take years to develop. So maybe vaccine molecules need to be in circulation for a considerable period of time. Maybe it takes a number of different molecules administered over an extended period of time to guide the evolutionary machinery toward the desired result.
 </p>
