@@ -13,7 +13,10 @@ An HIV vaccine molecule. This version shows more clearly the symmetry between cr
   (based on 5TE4.PDB -- DOI:10.1016/j.immuni.2016.10.027)
 </p>
 <p>
-As recently as June of 2017, in "Sequence intrinsic somatic mutation mechanisms contribute to affinity maturation of VRC01-class HIV-1 broadly neutralizing antibodies" I'm told that development of vaccine strategies to elicit VRC01-class antibodies is difficult due to the high somatic hypermutation levels associated with their maturation. Since HIV itself has been seen to encourage the evolution of these antibodies, one way to develop an immunization strategy that might result in these antibodies is to use HIV's behavior in the course of an infection as a model for the strategy.
+As of June of 2017, in "Sequence intrinsic somatic mutation mechanisms contribute to affinity maturation of VRC01-class HIV-1 broadly neutralizing antibodies" we are told that development of vaccine strategies to elicit VRC01-class antibodies is difficult due to the high somatic hypermutation levels associated with their maturation. 
+</p>
+<p>
+Since HIV itself has been seen to encourage the evolution of these antibodies, one way to develop an immunization strategy that might result in these antibodies is to use HIV's behavior in the course of an infection as a model for the strategy.
 </p>
 <p>
 One HIV behavior is that HIV early entrants, or "pioneers," have statistically fewer N-linked glycosylation sites and may have fewer glycans than HIV viruses that have been part of an infection for a while. To emulate this behavior we might like to see immunization as a series of vaccine molecules which starts with fewer glycans and a more accessible CD4 binding site and progresses to more glycans and a less accessible CD4 binding site. 
