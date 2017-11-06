@@ -16,7 +16,7 @@ An HIV vaccine molecule. This version shows more clearly the symmetry between cr
 Since HIV has been seen to encourage the evolution of broadly neutralizing antibodies, one way to develop an immunization strategy that might result in broadly neutralizing antibodies is to use HIV's behavior in the course of an infection as a model for the strategy.
 </p>
 <p>
-HIV varies the protein surface in areas that neighbor the CD4 binding site while leaving the CD4 binding site itself relatively constant. Since it is difficult to evolve an improved affinity to a surface that is changing, it may be necessary to develop a series of vaccine molecules to vary the protein surface in the vicinity of the desired binding site to better focus the antibody.
+In addition to keeping gp120 heavily glycosylated which generally reduces the immunogenicity of the molecule, HIV varies the protein surface in areas that neighbor the CD4 binding site while leaving the CD4 binding site itself relatively constant. Since it is difficult to evolve an improved affinity to a surface that is changing, it may be necessary to develop a series of vaccine molecules to vary the protein surface in the vicinity of the desired binding site to better focus the antibody.
 </p>
 <p>
 In HIV patients, broadly neutralizing antibodies can take years to develop. So vaccine molecules may need to be in circulation for a considerable period of time.
